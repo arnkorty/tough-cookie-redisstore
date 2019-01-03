@@ -1,6 +1,6 @@
 {
   "name": "tough-cookie-redisstore",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "redis store for tough-cookie",
   "main": "index.js",
   "author": "arnkorty",
