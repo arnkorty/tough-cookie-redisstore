@@ -1,2 +1,2 @@
-var FileCookieStore = require('./lib/filestore').FileCookieStore;
-module.exports = FileCookieStore;
+var RedisCookieStore = require('./lib/redisstore').RedisCookieStore;
+module.exports = RedisCookieStore;

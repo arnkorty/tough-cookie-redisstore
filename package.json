@@ -5,11 +5,12 @@
   "main": "index.js",
   "author": "mitsuru",
   "license": "MIT",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/mitsuru/tough-cookie-filestore.git"
-	},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mitsuru/tough-cookie-filestore.git"
+  },
   "dependencies": {
+    "ioredis": "^4.3.0",
     "tough-cookie": "~0.12.1"
   }
 }
