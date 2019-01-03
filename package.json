@@ -1,13 +1,13 @@
 {
-  "name": "tough-cookie-filestore",
+  "name": "tough-cookie-redisstore",
   "version": "0.0.2",
-  "description": "file store for tough-cookie",
+  "description": "redis store for tough-cookie",
   "main": "index.js",
-  "author": "mitsuru",
+  "author": "arnkorty",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mitsuru/tough-cookie-filestore.git"
+    "url": "https://github.com/arnkorty/tough-cookie-redisstore.git"
   },
   "dependencies": {
     "ioredis": "^4.3.0",
